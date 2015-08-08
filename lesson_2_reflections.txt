@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 A new empty repository is created in the current directory.  You need to do it so that you can then add files to the repository and create commits.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It stores the data so that it can then be added to the repository.  Not really sure.
